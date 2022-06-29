@@ -1,0 +1,11 @@
+{
+    "name": "dorn/framework",
+    "autoload": {
+        "psr-4": {
+            "App\\": "./app"
+        }
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "*"
+    }
+}
